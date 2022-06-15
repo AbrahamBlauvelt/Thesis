@@ -1,2 +1,2 @@
 # Thesis
-Signer diarization using Random Forest and Tabnet classifiers
+Signer diarization using Random Forest, AdaBoost, SVM, Gradient Boost and Tabnet classifiers.
